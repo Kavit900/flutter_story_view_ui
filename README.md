@@ -3,7 +3,7 @@
 Flutter Instagram and Whatsapp Story view UI
 
 # Youtube Link
-https://youtu.be/CHySFhkRHkc
+https://youtu.be/7Mk7Upqq2Q8
 
 # About Me
 Hi Folks! I am Kavit, a software engineer with a passion for teaching.
